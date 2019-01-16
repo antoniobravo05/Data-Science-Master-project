@@ -604,7 +604,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run fontalignment='1'>Average of Carga Prediction for each detector at 7:00AM</run>
+            <run bold='true' fontalignment='1'>Average of Carga Prediction for each detector at 7:00AM</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -1009,7 +1009,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='-1' />
+      <active id='9' />
     </window>
   </windows>
   <thumbnails>
