@@ -1,8 +1,7 @@
 # Vehicles load on the Madrid urban roads
 ### Data Science Final Master Project at KSCHOOL
 
-![alt text](https://github.com/antoniobravo05/TFM_KSchool-Vehicles_load_on_the_Madrid_urban_roads/blob/master/Documents/traficomadridpicture.png)
-
+![alt text](https://github.com/antoniobravo05/TFM_KSchool-Vehicles_load_on_the_Madrid_urban_roads/blob/master/Vehicles%20load%20on%20the%20Madrid%20urban%20roads/Documents/traficomadridpicture.png)
 
 This is the repository where this project is going to be developed.
 
